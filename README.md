@@ -12,3 +12,17 @@
 - Discover top-rated Movies and TV Shows.
 - Understand Netflix's content acquisition and investment trends.
 - Generate insights through data visualization and exploratory data analysis.
+
+## Team Members
+
+- Vyoma Sai Vanka (Data Analysis & Visualization)
+- Mokshagna roa (Data Cleaning & Reasearch)
+
+- ## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+
+  
